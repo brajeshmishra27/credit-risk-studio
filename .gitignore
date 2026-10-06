@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.streamlit/secrets.toml
+projects/*
+!projects/README.md
+artifacts/*
+!artifacts/model/
+!artifacts/model/candidates/
+!artifacts/model/final/
+*.joblib
+*.pkl
+*.pickle
