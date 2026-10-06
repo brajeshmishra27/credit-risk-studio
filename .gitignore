@@ -12,3 +12,6 @@ artifacts/*
 *.joblib
 *.pkl
 *.pickle
+.streamlit/.DS_Store
+.DS_Store
+.DS_Store
